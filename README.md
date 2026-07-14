@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 I'm currently working on a password generator in Rust for VaultForge, my password/secrets manager: cryptographically secure RNG, entropy calculation, and zxcvbn strength rating behind a gRPC service<br><br>🌱 I'm currently learning deeper Rust and distributed-systems patterns: tracing, message-based recovery, cross-language service boundaries<br><br>⚡ Fun fact - every project pinned below has a live demo you can click right now
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-garcia-prieto) 
@@ -12,10 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=martinrgarciap&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=martinrgarciap&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
